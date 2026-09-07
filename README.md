@@ -3,8 +3,8 @@
 A Python utility that automates sending claim status update emails to recipients and tracks click activity.
 
 ## Overview
+Experimental phishing toolkit that sends testing emails with a tracker to recipients, then processes who clicked in a way that professionals can parse to see which departments need different security controls.
 
-This utility reads a CSV file containing claim information and sends personalized emails to each recipient using the company's SMTP server. When recipients click the tracking link in the email, their activity is logged in a SQL database for audit purposes.
 
 ## Features
 
