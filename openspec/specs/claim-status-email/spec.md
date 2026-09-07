@@ -1,4 +1,4 @@
-## ADDED Requirements
+## Requirements
 
 ### Requirement: System SHALL Send Claim Status Email via SMTP
 
@@ -13,11 +13,3 @@ The system SHALL send a claim status email to each recipient listed in the CSV f
 - **GIVEN** a recipient clicks the tracking link in the email
 - **WHEN** the request reaches `/track` with `recipient` and `claim` query parameters
 - **THEN** the system MUST log the recipient email, claim reference, and claim URL to a SQL database and redirect the recipient to the claim URL
-
-## MODIFIED Requirements
-
-(none)
-
-## REMOVED Requirements
-
-(none)
