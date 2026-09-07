@@ -2377,23 +2377,23 @@ We have the apply command. Next step is to run opsx-apply for our change. Let's 
 ```
 {
   "changeName": "claim-status-email-utility",
-  "changeDir": "C:\\Users\\skype\\Documents\\sdd-intent\\openspec\\changes\\claim-status-email-utility",
+  "changeDir": "openspec\\changes\\claim-status-email-utility",
   "schemaName": "intent-driven",
   "contextFiles": {
     "proposal": [
-      "C:\\Users\\skype\\Documents\\sdd-intent\\openspec\\changes\\claim-status-email-utility\\proposal.md"
+      "openspec\\changes\\claim-status-email-utility\\proposal.md"
     ],
     "specs": [
-      "C:\\Users\\skype\\Documents\\sdd-intent\\openspec\\changes\\claim-status-email-utility\\specs\\claim-status-email.md"
+      "openspec\\changes\\claim-status-email-utility\\specs\\claim-status-email.md"
     ],
     "design": [
-      "C:\\Users\\skype\\Documents\\sdd-intent\\openspec\\changes\\claim-status-email-utility\\design.md"
+      "openspec\\changes\\claim-status-email-utility\\design.md"
     ],
     "adr": [
-      "C:\\Users\\skype\\Documents\\sdd-intent\\openspec\\changes\\claim-status-email-utility\\adr.md"
+      "openspec\\changes\\claim-status-email-utility\\adr.md"
     ],
     "tasks": [
-      "C:\\Users\\skype\\Documents\\sdd-intent\\openspec\\changes\\claim-status-email-utility\\tasks.md"
+      "openspec\\changes\\claim-status-email-utility\\tasks.md"
     ]
   },
   "progress": {
@@ -2471,7 +2471,7 @@ We have the apply command. Next step is to run opsx-apply for our change. Let's 
   "state": "ready",
   "instruction": "Read context files, work through pending tasks, mark complete as you go.\nPause if you hit blockers or need clarification.",
   "root": {
-    "path": "C:\\Users\\skype\\Documents\\sdd-intent",
+    "path": ".",
     "source": "nearest"
   }
 }
