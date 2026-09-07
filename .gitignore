@@ -34,6 +34,9 @@ pnpm-debug.log*
 # OpenSpec local output
 openspec/.cache/
 
+# Git worktrees
+.worktrees/
+
 # Editor and OS files
 .DS_Store
 Thumbs.db
