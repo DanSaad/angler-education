@@ -1,6 +1,6 @@
 ## ADDED Requirements
-
 ### Requirement: Send Claim Status Email
+
 Feature: claim-status-email
 Rule: email-claim-status
 
